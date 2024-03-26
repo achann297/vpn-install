@@ -1,6 +1,8 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+![image](https://github.com/achann297/vpn-install/assets/162517715/459739f0-e3fe-49e1-822b-d1a0f7b0c66a)
+
+
+
 
 <h1>VPN Installation</h1>
 This tutorial outlines the prerequisites and installation of a Virtual Private Network.<br />
