@@ -1,18 +1,19 @@
-<p align="center">
-![image](https://github.com/achann297/vpn-install/assets/162517715/459739f0-e3fe-49e1-822b-d1a0f7b0c66a)
+![image](https://github.com/achann297/vpn-install/assets/162517715/83849c05-9d3a-4d34-9849-ab5b64da9e6e)
+
 
 
 
 
 <h1>VPN Installation</h1>
-This tutorial outlines the prerequisites and installation of a Virtual Private Network.<br />
+This tutorial outlines the prerequisites and installation of a Virtual Private Network using a Virtual Machine.<br />
 
 
-<h2>Environments and Technologies Used</h2>
+<h2>Programs & Environments Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- ProtonVPN
+- Microsoft Azure Virtual Machines
+- RDP (Remote Desktop Protocol)
+  
 
 <h2>Operating Systems Used </h2>
 
@@ -20,11 +21,10 @@ This tutorial outlines the prerequisites and installation of a Virtual Private N
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Microsoft Azure Resource Group
+- Microsoft Azure Virtual Machine & IP
+- Windows Remote Desktop Connection
+- Sample ProtonVPN Account
 
 <h2>Installation Steps</h2>
 
